@@ -5,3 +5,5 @@
  　日本限定盤にしているのは、国土地理院の地図を使っているから。これにより、状況に応じて４つのモードを切り替えて使うことができる。
 ## 他詳しくは・・・
 　現在作成途中の note を参照してもらおうと思っている。
+本体URL　https://waraoune-cell.github.io/japan-distance-tool/
+note URL　工事中
